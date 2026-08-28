@@ -21,8 +21,9 @@ class greaterelement{
 public class nextgrater {
     public static void main(String[] args) {
         greaterelement s= new greaterelement();
-        int [] array ={4, 5, 2, 25};
+        int [] array ={4,12,5,3,1,2,5,3,1,2,4,6};
         System.out.println(Arrays.toString(s.findelement(array)));
+
 
         
     }
